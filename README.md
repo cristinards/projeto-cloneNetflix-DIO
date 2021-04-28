@@ -2,7 +2,7 @@
 
 
 
-<p>Primeiro projeto desenvolvido durante o bootcamp HTML Web Developer da DIO, nele foi Recriado a pagina inicial da Netflix usando os conceitos de HTML, CSS, Javascript e boas práticas de desenvolvimento web. </p>
+<p>Projeto desenvolvido durante o bootcamp HTML Web Developer da DIO, nele foi Recriado a pagina inicial da Netflix usando os conceitos de HTML, CSS, Javascript e boas práticas de desenvolvimento web. </p>
 
 
 
