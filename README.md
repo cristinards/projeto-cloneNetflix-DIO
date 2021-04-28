@@ -20,6 +20,6 @@
 
 
 <p>
-    • <a href="#">Projeto Animeflix</a>
+    • <a href="https://github.com/cristinards/projeto-animeflix">Projeto Animeflix</a>
 </p>
 
